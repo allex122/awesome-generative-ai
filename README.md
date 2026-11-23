@@ -245,6 +245,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Bifrost](https://github.com/maximhq/bifrost) - An open-source LLM gateway with routing, load balancing, guardrails, and observability for 1000+ models. #opensource
 - [fal](https://fal.ai/) - A developer platform for accessing and deploying image, video, audio, and 3D generation models.
 - [REA (Reverse Engineer Anything)](https://rea.tools/) - Connects coding agents to reverse-engineering tools through MCP to analyze binaries, applications, and runtime behavior. [#opensource](https://github.com/morluto/rea)
+- [ModelPricing](https://modelpricing.xyz) - Open-source LLM API pricing calculator and prompt caching cost simulator. [#opensource](https://github.com/allex122/llm-pricing-dataset)
 
 ### Playgrounds
 
